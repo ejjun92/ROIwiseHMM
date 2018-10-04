@@ -1,5 +1,5 @@
-ROI-wise HMM
-----------------------------------------------------------------------------
+# ROI-wise HMM
+
 This repository contains the implementation of our ROI-wise HMM. It has been written in Matlab. The details of this model are included in this [paper](http://www.sciencedirect.com/science/article/pii/S1053811918308280). Please cite our paper if you use this code in your own work:
 
 ```
@@ -13,7 +13,7 @@ author = "Eunji Jun and Eunsong Kang and Jaehun Choi and Heung-Il Suk"
 
 
 
-## Requirement
+### Requirement
 
 * **HMM Toolbox**
 
