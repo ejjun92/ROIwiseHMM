@@ -2,9 +2,12 @@
 ----------------------------------------------------------------------------
 This repository contains the implementation of our ROI-wise HMM. It has been written in Matlab. The details of this model are included in this [paper](http://www.sciencedirect.com/science/article/pii/S1053811918308280).
 
+```
 Jun, E., Kang, E., Choi, Jaehun., & Suk, H. <br />
 Modeling regional dynamics in low-frequency fluctuation and its application to Autism spectrum disorder diagnosis. <br />
 *NeuroImage*, 2018.
+```
+
 
 
 ## Requirement
